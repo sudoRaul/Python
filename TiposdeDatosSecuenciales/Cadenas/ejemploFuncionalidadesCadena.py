@@ -1,3 +1,5 @@
+#LAS CADENAS SON INMUTABLES
+#SE COMPARÁN POR CÓDIGO UNICODE
 cadena = "HolaMundo"
 #Imprimirá True
 print("a" in cadena)
