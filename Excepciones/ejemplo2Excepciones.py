@@ -7,6 +7,7 @@ except ValueError:
 except ZeroDivisionError:
     print("No se puede introducir un 0")
 #De esta manera controlamos cualquier error que suceda que no se haya controlado
+#except:
 else:
     print("Se ha producido otro error")
 #Se ejecuta siempre pase lo que pase
