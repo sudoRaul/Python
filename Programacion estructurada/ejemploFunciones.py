@@ -1,5 +1,7 @@
+#EL TIPO DE UNA FUNCION DEPENDERA DEL VALOR QUE DEVUELVA
 #FORMA NORMAL
 def factorial(n):
+    """Calcula el factorial de un número""" #Descripción de la función
     result= 1
     for i in range(1, n+1):
         result *= i
