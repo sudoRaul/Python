@@ -1,5 +1,6 @@
 import math
-
+#Cuando hacemos los métodos de la clase el parametroself
+#hace referencia al objeto que estamos usando
 class Punto():
     def __init__(self, x=0, y=0):
         self.x = x
